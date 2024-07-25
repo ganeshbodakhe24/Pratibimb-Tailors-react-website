@@ -1,0 +1,18 @@
+.contact_outer{
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
+.textarea{
+    width: 94%;
+    min-height:50px;
+    height: auto;
+    font-size:18px;
+    color:rgb(49, 49, 49);
+    padding:3%;
+    border:1px solid rgb(193, 193, 193)
+}
+.textarea :active{
+    border:1px solid rgb(2, 158, 254)
+
+}

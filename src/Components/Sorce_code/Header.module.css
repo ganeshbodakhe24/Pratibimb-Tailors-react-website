@@ -1,0 +1,24 @@
+.link_color{
+    color:#000000
+}
+.nav_bar{
+    background-color:#24b9cc;
+}
+.small_logo{
+    margin-top:10px;
+    width:150px;
+    marginLeft:20px;
+}
+.menu_btn{
+    color:#000000;
+    font-size:50px;
+}
+.small_logo_xs{
+  width:100%;
+  text-align: center;
+  /* background-color: #000000; */
+}
+.small_logo_xs img{
+    width:100px;
+    width:150px;
+}
